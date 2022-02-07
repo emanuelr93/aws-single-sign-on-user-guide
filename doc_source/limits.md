@@ -39,8 +39,8 @@ The following tables describe quotas within AWS SSO\.
 | Resource | Default quota | Can be increased | 
 | --- | --- | --- | 
 |  Number of unique groups that can be assigned \*  | 2500 | Yes | 
-|  Number of users supported in AWS SSO  | 50000 | Yes | 
-| Number of groups supported in AWS SSO | 10000 | Yes | 
+|  Number of users supported in AWS SSO  | 50000 | No | 
+| Number of groups supported in AWS SSO | 10000 | No | 
 
 \* Users within an AWS SSO store can have up to 100 of their groups assigned for using applications\.
 
